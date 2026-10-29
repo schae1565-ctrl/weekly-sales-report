@@ -1,0 +1,8 @@
+{
+  "name": "weekly-sales-report",
+  "description": "구글 시트의 지난주 매출과 카테고리별 전주 대비 증감을 집계해 슬랙 채널에 리포트로 보낸다",
+  "version": "1.0.0",
+  "author": {
+    "name": "chaesu"
+  }
+}
